@@ -1,6 +1,6 @@
 ---
 tags:
-title: {{title}}
+title: "{{title}}"
 authors: {{authors}}
 year: {{date | format("YYYY")}}
 publisher: {{publicationTitle}}
